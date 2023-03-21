@@ -4,7 +4,6 @@ if (1 == 1) {
     console.log("one more thing");
 }
 
-var me = 3 + 4;
 
 
 
